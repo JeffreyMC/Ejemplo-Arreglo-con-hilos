@@ -1,0 +1,19 @@
+c:\users\jeffrey\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+c:\users\jeffrey\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.csprojResolveAssemblyReference.cache
+c:\users\jeffrey\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.Form1.resources
+c:\users\jeffrey\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+c:\users\jeffrey\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.Cache
+c:\users\jeffrey\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.Form1.resources
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.cache
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Jeffrey.000\Desktop\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
